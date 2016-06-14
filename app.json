@@ -1,0 +1,6 @@
+{
+  "name": "Chick Tac Toe",
+  "description": "Tic Tac Toe with chickens for Slack channels!",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}

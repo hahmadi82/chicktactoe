@@ -1,0 +1,9 @@
+<phpunit bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="chicktactoe">
+            <file>web/TestBoard.php</file>
+            <file>web/TestPlayers.php</file>
+            <file>web/TestGame.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>
